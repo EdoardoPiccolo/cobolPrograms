@@ -1,0 +1,9 @@
+# compiled files for windows
+*.exe
+*.o
+
+# compiled files for linux
+exe
+
+# editor
+.vscode/
